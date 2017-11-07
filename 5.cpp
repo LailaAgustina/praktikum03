@@ -6,4 +6,6 @@ int main()
 {
 	double tinggi, berat, u, o;
 	
+	cout<<"Masukkan tinggi badan [cm]: ";cin>>tinggi;
+	
 }
