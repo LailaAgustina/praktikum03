@@ -15,5 +15,10 @@ int main()
 	{
 		cout<<"Underweight";
 	}
-	
+	else if (berat>=u && berat<=o)
+	{
+		cout<<"Normal";
+	}
+	else if (berat>o)
+
 }
