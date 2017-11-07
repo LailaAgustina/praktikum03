@@ -20,5 +20,8 @@ int main()
 		cout<<"Normal";
 	}
 	else if (berat>o)
+	{
+		cout<<"Overweight";
+	}
 
 }
