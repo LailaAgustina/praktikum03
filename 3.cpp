@@ -8,5 +8,6 @@ int main () {
 	
 	cout << "Masukkan gaji pegawai : ";
 	cin >> gp;
-	
+	cout << "Masukkan jam kerja    : ";
+	cin >> jk;
 }
